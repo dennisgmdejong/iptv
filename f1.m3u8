@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0 tvg-country="LU" tvg-logo="https://i.imgur.com/42f0krb.png" group-title="Undefined",RTL Zwee
+https://live-edge.rtl.lu/channel1/smil:channel2/720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="LU" tvg-logo="https://i.imgur.com/42f0krb.png" group-title="Undefined",RTL Zwee
+https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Servus TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",SRF 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4413?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",SRF Zwei
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/294454?checkedby:iptvcat.com
