@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RTL Zwee A" tvg-logo="https://i.imgur.com/42f0krb.png" group-title="F1",RTL Zwee A
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL Zwee B" tvg-logo="https://i.imgur.com/42f0krb.png" group-title="F1",RTL Zwee B
+https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png" group-title="F1",SERVUS TV DE
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-logo="servustv.png" group-title="F1",SERVUS TV AT
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="srfernsehen.png" group-title="F1",SRF
+http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
