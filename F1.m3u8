@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-country="LU" tvg-logo="https://i.imgur.com/42f0krb.png" group-title="F1",RTL Zwee HD
+https://live-edge.rtl.lu/channel1/smil:channel2/720p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="F1",SERVUSTV HD
+http://rv.therevenge.co:80/live/242424/242424/81508.m3u8
