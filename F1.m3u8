@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-country="LU" tvg-logo="https://i.imgur.com/42f0krb.png" group-title="F1",RTL Zwee HD
+#EXTINF:0 tvg-country="LU" tvg-logo="https://i.imgur.com/42f0krb.png" group-title="_F1",RTL Zwee HD
 https://live-edge.rtl.lu/channel1/smil:channel2/720p.m3u8
+#EXTINF:-1 tvg-country="AT" group-title="_F1",ORF 1 (720p)
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1 tvg-country="AT" group-title="_F1",ORF 2 (540p)
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-country="AT" group-title="_F1",ORF 3 (720p)
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 tvg-country="AT" group-title="_F1",ORF Sport+ (540p)
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-country="AT" status="online" group-title="_F1",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-country="AT" group-title="_F1",ServusTV
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
